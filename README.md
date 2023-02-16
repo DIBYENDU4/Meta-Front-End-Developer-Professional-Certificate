@@ -16,4 +16,10 @@
     * Week 2: [The Building Blocks of a Program](https://github.com/DIBYENDU4/Meta-Front-End-Developer-Professional-Certificate/tree/main/Programming%20with%20JavaScript(2)/The%20Building%20Blocks%20of%20a%20Program(Week%202))
     * Week 3: [Programming Paradigms](https://github.com/DIBYENDU4/Meta-Front-End-Developer-Professional-Certificate/tree/main/Programming%20with%20JavaScript(2)/Programming%20Paradigms(Week%203))
     * Week 4: [Testing](https://github.com/DIBYENDU4/Meta-Front-End-Developer-Professional-Certificate/tree/main/Programming%20with%20JavaScript(2)/Testing(Week%204))
-    * Week 5: [End-of-Course Graded Assessment](Coming soon)
+    * Week 5: [End-of-Course Graded Assessment](https://github.com/DIBYENDU4/Meta-Front-End-Developer-Professional-Certificate/tree/main/Programming%20with%20JavaScript(2)/End%20of%20course%20graded%20assessment(Week%205))
+
+- Course 3: [Version Control](https://github.com/DIBYENDU4/Meta-Front-End-Developer-Professional-Certificate/tree/main/Version%20Control(3))
+  * Week 1: [Software collaboration](https://github.com/DIBYENDU4/Meta-Front-End-Developer-Professional-Certificate/tree/main/Version%20Control(3)/Software%20collaboration(Week%201))
+  * Week 2: [Command Line](Comming Soon)
+  * Week 3: [Working with Git](Comming Soon)
+  * Week 4: [Graded Assessment](Comming Soon)
