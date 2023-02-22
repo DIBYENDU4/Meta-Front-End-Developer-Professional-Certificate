@@ -20,6 +20,6 @@
 
 - Course 3: [Version Control](https://github.com/DIBYENDU4/Meta-Front-End-Developer-Professional-Certificate/tree/main/Version%20Control(3))
   * Week 1: [Software collaboration](https://github.com/DIBYENDU4/Meta-Front-End-Developer-Professional-Certificate/tree/main/Version%20Control(3)/Software%20collaboration(Week%201))
-  * Week 2: [Command Line](Comming Soon)
-  * Week 3: [Working with Git](Comming Soon)
-  * Week 4: [Graded Assessment](Comming Soon)
+  * Week 2: [Command Line](https://github.com/DIBYENDU4/Meta-Front-End-Developer-Professional-Certificate/tree/main/Version%20Control(3)/Command%20Line(Week%202))
+  * Week 3: [Working with Git](https://github.com/DIBYENDU4/Meta-Front-End-Developer-Professional-Certificate/tree/main/Version%20Control(3)/Working%20with%20Git(Week%203))
+  * Week 4: [Graded Assessment](https://github.com/DIBYENDU4/Meta-Front-End-Developer-Professional-Certificate/tree/main/Version%20Control(3)/End%20of%20course%20graded%20assessment(Week%204))
